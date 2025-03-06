@@ -17,6 +17,12 @@ document.addEventListener("DOMContentLoaded", () => {
             question: "Vilket år skapades JavaScript?",
             answers: ["1995", "2000", "1990", "1985"],
             correct: 0
+        },
+
+        {
+            question: "Vilketdjur säger MUUUU?",
+            answers: ["Häst", "Hund", "Kö", "Katt"],
+            correct: 2
         }
     ];
 
